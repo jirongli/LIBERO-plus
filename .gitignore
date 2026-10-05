@@ -24,3 +24,4 @@ libero/libero/assets/
 /.agents/
 /.codex/
 /.aws/
+.DS_Store/
